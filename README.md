@@ -4,7 +4,7 @@ I created a basic grocery list program where the user can add an item, change an
 
 I wrote this program to make it easier to compile and calculate the price of a grocery list. That way i don't have to do the math myself. 
 
-[Software Demo Video](https://youtu.be/lYaM1MJSzxs)
+[Demo video](https://youtu.be/lYaM1MJSzxs)
 
 # Development Environment
 
