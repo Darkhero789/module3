@@ -1,28 +1,22 @@
 Overview
 
-I created a basic grocery list program where the user can add an item, 
+I created a basic grocery list program where the user can add an item, change an items price or quantity, delete an item, and finish the program.
 
-{Describe your purpose for writing this software.}
+I wrote this program to make it easier to compile and calculate the price of a grocery list. That way i don't have to do the math myself. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lYaM1MJSzxs)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used visual studio code to write the program, test it, edit it, and debug the program.
 
-{Describe the programming language that you used and any libraries.}
+I used python for the programming language
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3School](https://www.w3schools.com/python/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* First thing i would probably want to work on for this program is have the program remember a list and allow you to pull a remembered list back. This way i have memorized grocery lists.
+* Next, after making it remember certain lists, i would alter the program so that i can alter a remembered list, whether thats adding a new item, editing an old item, or deleting an item. 
